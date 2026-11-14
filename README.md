@@ -2,7 +2,7 @@
 
 Setup (needs internet ONCE, on your computer, to download packages):
 
-    flutter --version        # Flutter 3.22+ / Dart 3.3+
+    flutter --version        # Flutter 3.24+ / Dart 3.3+
     ./setup.sh               # generates android/ for your Flutter version, applies manifest + minSdk 24
     flutter build apk --release
     # APK: build/app/outputs/flutter-apk/app-release.apk
